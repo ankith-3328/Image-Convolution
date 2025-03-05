@@ -8,7 +8,7 @@ This project applies image processing techniques to the classic Lena image using
 - **Gaussian Blur**: Applies a weighted kernel to smooth the image.
 - **Image Display & Saving**: The processed images are saved and displayed for comparison.
 
-![Other Kernels](kernels.png)
+![Other Kernels](images/kernels.png)
 
 ## Usage
 1. Place `Lena.png` in the same directory as the script.
@@ -24,6 +24,6 @@ python image.py
 ## Results
 | Original | Kernel 1 | Kernel 2 |
 |----------|----------|----------|
-| ![Original](Lena.png) | ![Kernel 2](edge_detection.png) | ![Kernel 3](gaussian_blur.png) |
+| ![Original](images/Lena.png) | ![Kernel 2](images/edge_detection.png) | ![Kernel 3](images/gaussian_blur.png) |
 
 
