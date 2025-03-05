@@ -9,9 +9,9 @@ image = cv2.imread(image_path, cv2.IMREAD_GRAYSCALE)
 image_double = image.astype(np.float64)
 
 # Define kernels
-kernel1 = np.array([[0, -1, 0],
-                     [-1, 5, -1],
-                     [0, -1, 0]])
+kernel1 = np.array([[-1, -1, -1],
+                     [-1, 8, -1],
+                     [-1, -1, -1]])
 
 kernel2 = (1/24) * np.array([[1, 2, 1],
                               [3, 6, 3],
