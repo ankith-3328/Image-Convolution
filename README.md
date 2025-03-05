@@ -22,6 +22,8 @@ python image.py
    - `gaussian_blur.png`
 
 ## Results
-
+| Original | Kernel 1 | Kernel 2 |
+|----------|----------|----------|
+| ![Original](Lena.png) | ![Kernel 2](edge_detection.png) | ![Kernel 3](gaussian_blur.png) |
 
 
