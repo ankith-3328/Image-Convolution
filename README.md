@@ -24,6 +24,6 @@ python image.py
 ## Results
 | Original | Kernel 1 | Kernel 2 |
 |----------|----------|----------|
-| ![Original](Image Convolution Project/Lena.png) | ![Kernel 2](images/edge_detection.png) | ![Kernel 3](images/gaussian_blur.png) |
+| ![Original](images/Lena.png) | ![Kernel 2](images/edge_detection.png) | ![Kernel 3](images/gaussian_blur.png) |
 
 
