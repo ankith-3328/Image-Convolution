@@ -24,6 +24,6 @@ python image.py
 ## Results
 | Original | Kernel 1 | Kernel 2 |
 |----------|----------|----------|
-| ![Original](images/Lena.png) | ![Kernel 2](images/edge_detection.png) | ![Kernel 3](images/gaussian_blur.png) |
+| ![Original](images/Lena.png) | ![Kernel 2](images/edge_detection.png) | ![Kernel 3](images/guassian_blur.png) |
 
 
