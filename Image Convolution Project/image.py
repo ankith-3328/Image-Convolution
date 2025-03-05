@@ -26,8 +26,8 @@ guassianblur_image = cv2.filter2D(image_double, -1, kernel2)
 guassianblur_image = np.clip(guassianblur_image, 0, 255).astype(np.uint8)
 
 # Save images
-cv2.imwrite('edge_detection.png', edgedetection_image)
-cv2.imwrite('gaussian_blur.png', guassianblur_image)
+cv2.imwrite('images/edge_detection.png', edgedetection_image)
+cv2.imwrite('images/gaussian_blur.png', guassianblur_image)
 
 # Display images
 cv2.imshow('Edge Detection', edgedetection_image)
